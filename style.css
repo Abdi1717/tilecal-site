@@ -1,0 +1,3 @@
+body{font:17px/1.55 -apple-system,BlinkMacSystemFont,"SF Pro Text",Helvetica,Arial,sans-serif;max-width:680px;margin:40px auto;padding:0 20px;color:#1d1f1c;background:#fbfaf6}
+h1{font-family:"New York",ui-serif,Georgia,serif;font-size:30px;margin-bottom:4px}h2{font-size:20px;margin-top:28px}a{color:#586E55}.muted{color:#666;font-size:14px}
+@media (prefers-color-scheme:dark){body{background:#151614;color:#ecebe6}a{color:#B6C6B4}.muted{color:#9a9a96}}
